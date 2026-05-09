@@ -9,7 +9,7 @@
 
 ```
 git clone https://github.com/nafiz1000x/Nafiz-phone_information-hack-.git
-cd Nafiz–phone_information-hack
+cd Nafiz-phone_information-hack-
 python phone-information_hack.py
 ```
 
