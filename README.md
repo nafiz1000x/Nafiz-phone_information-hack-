@@ -1,2 +1,37 @@
 # Nafiz-phone_information-hack-
-এটা দিয়ে ফোনের ইনফরমেশন হ্যাক করতে পারবেন। এইটা শিক্ষামূলক উদ্দেশ্যে বানানো, কেউ খারাপ কাজে ব্যবহার করবেন না। 
+**ডেভেলপার:**[Nafiz Sheikh](https://nafiz1000x.github.io/Nafizsheikh.web/)
+
+টেলিগ্রাম চ্যানেল: https://t.me/nafizsheikhtech
+
+---
+
+ইনস্টলেশন ও রান
+
+```
+git clone https://github.com/nafiz1000x/Nafiz-phone_information-hack-.git
+cd Nafiz–phone_information-hack
+python phone-information_hack.py
+```
+
+---
+
+🔐 পাসওয়ার্ড
+
+পাসওয়ার্ড জানতে :
+নিচে  ভিডিও টিউটোরিয়াল এর ভেতর দেওয়া আছে অথবা মেসেজ করুন। 
+
+---
+
+**যোগাযোগ এর জন্য**  
+[Nafiz profile](https://nafiz1000x.github.io/Nafizsheikh.web/)
+-
+
+---
+
+🎥 ভিডিও টিউটোরিয়াল
+
+ভিডিও দেখতে ভিজিট করুন: (লিংক শীঘ্রই যোগ হবে)
+
+---
+
+⚠️ সতর্কতা: শুধুমাত্র শিক্ষাগত উদ্দেশ্যে। অপব্যবহারের জন্য দায়ী নয়।
